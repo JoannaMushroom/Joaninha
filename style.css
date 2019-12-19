@@ -1,0 +1,36 @@
+body{
+  background: white;
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+  text-align: center;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 75px;
+}
+h2 {
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: pink;
+  font-size: 30px; 
+}
+a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.pictures {
+
+}
+
+#footer {
+  padding: 40px 40px 40px; 
+  background-color: pink; 
+}
